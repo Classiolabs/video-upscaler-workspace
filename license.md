@@ -151,4 +151,4 @@ The app runs on almost anything, but the experience varies a lot.
 
 ---
 
-*video-upscaler-workspace · Updated 2026-11-04 · Shared under the MIT License*
+*video-upscaler-workspace · Updated 2026-11-05 · Shared under the MIT License*
